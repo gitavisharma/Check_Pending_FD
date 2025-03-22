@@ -41,7 +41,11 @@ pending_agent_phrases = [
     "We are planning an update on this Wednesday",
     "We are planning an update on this Thursday",
     "We are planning an update on this Friday",
-    "We are planning an update on this Saturday"
+    "We are planning an update on this Saturday",
+    "We are looking into this",
+    "We are looking into this and will get back to you",
+    "We are looking into this and will get back to you soon",
+    "We are looking into this and will get back to you asap",
     
 ]
 
