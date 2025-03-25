@@ -22,10 +22,10 @@ pending_agent_phrases = [
     "We will check on this and get back to you",
     "We will get back to you by tomorrow",
     "We will get back to you by Monday",
-    "it’s a holiday here today on account of a festival. We will get back to you by Monday",
+    "it's a holiday here today on account of a festival. We will get back to you by Monday",
     "We will get back to you asap",
     "We will get back to you as soon as possible",
-    "​We are checking this on priority",
+    "We are checking this on priority",
     "Saturday is our weekly holiday",
     "We have a holiday here today; we will ask the server connection tomorrow to check on this",
     "We will check on this and get back to you by Monday",
@@ -46,6 +46,17 @@ pending_agent_phrases = [
     "We are looking into this and will get back to you",
     "We are looking into this and will get back to you soon",
     "We are looking into this and will get back to you asap",
+    "Please provide the TeamViewer details of the server machine to update the logo",
+    "Please provide the TeamViewer details of the server machine",
+    "Please provide the TeamViewer details of the machine where the user is facing issue",
+    "Please provide the TeamViewer details of the server machine",
+    "Please use below link to join Teams call now",
+    "Please share the TeamViewer details before the scheduled time",
+    "Please share the TeamViewer details before the schedule time",
+    "We will restart the tunnel and let you know",
+    "We will look into this and get back",
+    "server connection is required. Please provide the TeamViewer details of the server 15 minutes before the scheduled time tomorrow",
+    "Noted. We will do the needful and let you know once done"
     
 ]
 
