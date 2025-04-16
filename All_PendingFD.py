@@ -56,7 +56,14 @@ pending_agent_phrases = [
     "We will restart the tunnel and let you know",
     "We will look into this and get back",
     "server connection is required. Please provide the TeamViewer details of the server 15 minutes before the scheduled time tomorrow",
-    "Noted. We will do the needful and let you know once done"
+    "Noted. We will do the needful and let you know once done",
+    "We will do the year end as per scheduled time",
+    "We will do the year end as per schedule time",
+    "Please join the call using below link",
+    "Please join the call using below link to discuss on this",
+    "Please join the call using the link below"
+    "Please join the call tomorrow using the link below",
+    "Please join the call tomorrow"
     
 ]
 
